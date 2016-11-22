@@ -1,6 +1,6 @@
-## React Boilerplate App
+## React Timer App
 
-The skeleton structure supports React, ReactDOM, jQuery, Foundation, SCSS and other loaders.
+A simple ReactJS Timer and Countdown.
 
 ## Installation
 
@@ -9,7 +9,7 @@ The skeleton structure supports React, ReactDOM, jQuery, Foundation, SCSS and ot
 via git and npm:
 
 ```
-$ git clone git@github.com:akshay575/ReactBoilerplate.git [my-app-name]
+$ git clone git@github.com:akshay575/ReactTimerApp.git [my-app-name]
 $ cd [my-app-name]
 $ npm install
 ```
